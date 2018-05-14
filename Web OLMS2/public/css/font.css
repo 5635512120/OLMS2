@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://fonts.googleapis.com/css?family=Prompt) format('truetype');
+  }
+body {
+    font-family: 'Prompt', sans-serif;
+}
